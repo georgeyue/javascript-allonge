@@ -2,7 +2,7 @@
 
 *The following material is extremely basic, however like most stories, the best way to begin is to start at the very beginning.*
 
-Imagine we are visiting our favourite coffee shop. They will make for you just about any drink you desire, from a sort, intense espresso ristretto through a dry cappuccino, up to those coffee-flavoured desert concoctions featuring various concentrated syrups and milks. (You tolerate the existence of sugary drinks because they provide a sufficient profit margin to the establishment to finance your hanging out there all day using their WiFi and ordering a $3 drink every few hours.)
+Imagine we are visiting our favourite coffee shop. They will make for you just about any drink you desire, from a short, intense espresso ristretto through a dry cappuccino, up to those coffee-flavoured desert concoctions featuring various concentrated syrups and milks. (You tolerate the existence of sugary drinks because they provide a sufficient profit margin to the establishment to finance your hanging out there all day using their WiFi and ordering a $3 drink every few hours.)
 
 You express your order at one end of their counter, the folks behind the counter perform their magic, and deliver the coffee you value at the other end. This is exactly how the JavaScript environment works for the purpose of this book. We are going to dispense with web servers, browsers and other complexities and deal with this simple model: You give the computer an [expression], and it returns a [value], just as you express your wishes to a barista and receive a coffee in return.
 
@@ -11,7 +11,7 @@ You express your order at one end of their counter, the folks behind the counter
 
 ## values and expressions
 
-All values are expressions. Say you hand the barista a Cafe Cubana. Yup, you hand over a cup with some coffee infused through partially caramelized sugar. You say, "I want one of these." The barista is no fool, she gives it straight back to you, and you get exactly what you want. Thus, a Cafe Cubana is an expression (you can use it to place an order) and a value (you get it back from the barista).
+All values are expressions. Say you hand the barista a café Cubano. Yup, you hand over a cup with some coffee infused through partially caramelized sugar. You say, "I want one of these." The barista is no fool, she gives it straight back to you, and you get exactly what you want. Thus, a café Cubano is an expression (you can use it to place an order) and a value (you get it back from the barista).
 
 Let's try this with something the computer understands easily:
 
@@ -19,7 +19,7 @@ Let's try this with something the computer understands easily:
 
 Is this an expression? A value? Neither? Or both?
 
-The answer is, this is both an expression *and* a value.[^representation] The way you can tell that it's both is very easy: When you type it into JavaScript, you get the same thing back, just like our Cafe Cubana:
+The answer is, this is both an expression *and* a value.[^representation] The way you can tell that it's both is very easy: When you type it into JavaScript, you get the same thing back, just like our café Cubano:
 
     42
       //=> 42
